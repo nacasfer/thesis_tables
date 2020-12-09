@@ -1,6 +1,7 @@
 # thesis_tables
 
-Currently work present data tables to complete the thesis document for the phD "Herramientas bioinformaticas para el diagnóstico genético preimplantacional mediante NGS".
+Currently work present data tables to complete the thesis document for the phD: 
+# "Herramientas bioinformaticas para el diagnóstico genético preimplantacional mediante NGS".
 
 
 ##### Table of contents
