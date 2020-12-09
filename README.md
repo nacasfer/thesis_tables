@@ -7,13 +7,14 @@ Currently work present data tables to complete the thesis document for the phD "
 * [Manual page](#manual)
 * [Table 1](#one)
 * [Table 2](#two)
-* [Table 3](#three
+* [Table 3](#three)
 
 ---
 <a name="manual"></a>
 ### Manual pages
 
 Documentation for the project utilities is abailable by specifically demand and aprovation to University of Murcia, Spain. This requirement is due to the fact that the results of the thesis have been patented
+
 ---
 <a name="one"></a>
 ### Table 1
